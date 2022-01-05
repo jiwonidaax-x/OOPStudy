@@ -1,0 +1,9 @@
+//===========================
+//name:Jiwon Choi
+//email:jchoi152@myseneca.ca
+//student Id:154292197
+//section:NCC
+//Date:20210921
+// I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+//===========================
+In this workshop, we learned a new concept of overloading, but overloading of functions means that multiple function definitions are possible under the same function name. However, it is very unfamiliar because it is not used in the c language, but it was so convenient to use during the workshop this time. First, you don't have to take time to name the function. Unlike the c language, the reason why it is possible to overload from the c++ language is that it distinguishes calling functions differently. This is because, in the c language, the calling function is called the function name, but in c++, the calling function is checked simultaneously with the function name and parameter. When I used overloading in this workshop, it was easy to make a function to read each element of the structure and find where the problem occurred in the event of an error in the code, so it was highly readable. In addition, the most frequently used function during this workshop is the debugging function. I usually didn't use the debugging function a lot, so I read the code in my head and corrected it little by little, thinking, "It must be wrong in this part," but debugging made it easy to check what values go into the variable, so it was easy to fix when a function error occurred.
